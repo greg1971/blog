@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about me coming soon, so stay tuned...
+Περισσότερες πληφορορίες για ποδηλασία εσωτερικού χώρου, αγωνιστική ποδηλασία, άρθρα κλπ στο www.incycling.gr
 
 ### Contact me
 
-[sgerogia@gmail.com](mailto:sgerogia@gmail.com)
+[info@incycling.gr](mailto:info@incycling.gr)
