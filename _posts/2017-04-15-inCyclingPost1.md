@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hiring a Great Technical Team (Part 3/3)
+title: Είμαι ο Βαγγέλης Κασταμούλας, γεννημένος να παλεύω σαν σκυλί στη ζωή μου
 tags: [hiring, team creation, job description, candidate search]
 ---
 
