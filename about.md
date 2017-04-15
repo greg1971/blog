@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Επικοινωνία
+title: About
 permalink: /about/
 ---
 
