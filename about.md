@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Επικοινωνία
-permalink: /Επικοινωνία/
+permalink: /about/
 ---
 
 Περισσότερες πληφορορίες για ποδηλασία εσωτερικού χώρου, αγωνιστική ποδηλασία, άρθρα κλπ στο [incycling.gr](http://www.incycling.gr)
