@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Πώς να κερδίσεις βάρος σε μια δίαιτα χωρίς Γλουτένη
+title: Πώς να κερδίσεις βάρος σε μια δίαιτα χωρίς Γλουτένη	
 tags: [Διατροφή, Γλουτένη, fitness, Υγεία]
 ---
 
 *Ενδιαφέρον άρθρο για διατροφή του Βαγγέλη Κασταμούλα*
 
-![enter image description here](http://img.aws.livestrongcdn.com/ls-article-image-400/cme/cme_public_images/www_livestrong_com/photos.demandstudios.com/getty/article/235/110/156257557_XS.jpg)
 
 
 ## Πώς να κερδίσεις βάρος σε μια δίαιτα χωρίς Γλουτένη
